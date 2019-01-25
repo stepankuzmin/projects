@@ -10,6 +10,7 @@ This is a list of open source projects I created, maintain or actively contribut
 | [Martin](https://github.com/urbica/martin)                           | author      | PostGIS vector tiles server                           |
 | [tilelive-postgis](https://github.com/stepankuzmin/tilelive-postgis) | author      | Tilelive API for generating vector tiles from PostGIS |
 | [Ambient Map](https://github.com/stepankuzmin/ambient-map)           | author      | Ambient Map with randomly generated colors            |
+| [@urbica/pg-migrate](https://github.com/urbica/pg-migrate) | author      | Simple Node.js PostgreSQL migration tool. |
 | [@urbica/react-map-gl](https://github.com/urbica/react-map-gl)       | author      | React Component for Mapbox GL JS                      |
 | [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js)               | contributor | JavaScript/WebGL vector maps library                  |
 
