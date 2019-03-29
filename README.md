@@ -12,6 +12,7 @@ This is a list of open source projects I created, maintain or actively contribut
 | [@urbica/react-map-gl](https://github.com/urbica/react-map-gl)                         | author      | React Component Library for Mapbox GL JS               |
 | [@urbica/pg-migrate](https://github.com/urbica/pg-migrate)                             | author      | Simple Node.js PostgreSQL migration tool               |
 | [ambient map](https://github.com/stepankuzmin/ambient-map)                             | author      | Ambient Map with randomly generated colors             |
+| [WhiskyBar](https://github.com/stepankuzmin/WhiskyBar)                             | author      | React Native App that shows you the way to the next whisky bar             |
 | [bs-mapbox-gl](https://github.com/stepankuzmin/bs-mapbox-gl)                           | author      | BuckleScript bindings for Mapbox GL JS                 |
 | [create-immutable-selector](https://github.com/stepankuzmin/create-immutable-selector) | author      | Immutable.js reselect selector                         |
 | [distance-matrix](https://github.com/stepankuzmin/distance-matrix)                     | author      | Calculate distance matrix of arbitrary size using OSRM |
